@@ -1,0 +1,3 @@
+[submodule "stm_driver"]
+	path = stm_driver
+	url = https://github.com/STMicroelectronics/STMems_Standard_C_drivers.git
